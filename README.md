@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logodzo
-- 👀 I’m interested in learning ythn
-- 🌱 I’m currently learning ythn
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building real rject
 - 📫 How to reach me 
 - 😄 Pronouns: ...
